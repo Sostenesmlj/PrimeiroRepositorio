@@ -1,2 +1,4 @@
 Link para donwload do github https://git-scm.com/downloads
-Primeiros passos para instalaÁ„o
+Primeiros passos para instala√ß√£o
+Verificar o sistema operaciol
+Seguir passo a passo para instala√ß
